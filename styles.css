@@ -1,0 +1,30 @@
+.header {
+    background-color: blueviolet;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+.menu a {
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+}
+.menu ul  {
+    list-style-type: none;
+}
+.contact {
+    display: block;
+    margin-top: 10px;
+}
+body {
+    background-color: #50c090;
+}
+.contact-label {
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.contact-button {
+    display: block;
+    cursor: pointer;
+}
